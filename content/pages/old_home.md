@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: old_home
 sections:
   - type: GenericSection
     subtitle: ''
