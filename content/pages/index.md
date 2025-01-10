@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Constant Sojourner
-      color: text-dark
     subtitle: ''
     text: >
       The 'constant sojourner' symbolizes perpetual exploration and discovery.
