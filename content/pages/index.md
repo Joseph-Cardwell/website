@@ -4,14 +4,15 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: ''
-    text: >
-      The 'constant sojourner' symbolizes perpetual exploration and discovery.
-      Not just a traveler, they seek wisdom, connection, and growth through
-      diverse terrains and life phases. Their path, defined by the journey
-      itself, reflects humanity's timeless quest for meaning. Carrying only
-      essentials, they navigate physical and metaphorical landscapes, inspiring
-      others to embrace change, transience, and the unknown with courage and
-      wonder.
+    text: >+
+      ##### **The 'constant sojourner' symbolizes perpetual exploration and
+      discovery. Not just a traveler, they seek wisdom, connection, and growth
+      through diverse terrains and life phases. Their path, defined by the
+      journey itself, reflects humanity's timeless quest for meaning. Carrying
+      only essentials, they navigate physical and metaphorical landscapes,
+      inspiring others to embrace change, transience, and the unknown with
+      courage and wonder.**
+
     actions: []
     media:
       type: FormBlock
