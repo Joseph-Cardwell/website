@@ -8,11 +8,14 @@ sections:
       text: Constant Sojourner
       color: text-dark
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      The 'constant sojourner' symbolizes perpetual exploration and discovery.
+      Not just a traveler, they seek wisdom, connection, and growth through
+      diverse terrains and life phases. Their path, defined by the journey
+      itself, reflects humanity's timeless quest for meaning. Carrying only
+      essentials, they navigate physical and metaphorical landscapes, inspiring
+      others to embrace change, transience, and the unknown with courage and
+      wonder.
     actions: []
     media:
       type: FormBlock
