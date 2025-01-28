@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Trip To Andalucia
+title: Trip To Andalusia
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: >-
