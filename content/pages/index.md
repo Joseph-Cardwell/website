@@ -10,8 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/case-study-2.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
