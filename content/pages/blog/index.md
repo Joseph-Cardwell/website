@@ -1,7 +1,7 @@
 ---
 title: Blog
 slug: /blog
-numOfPostsPerPage: 3
+numOfPostsPerPage: 20
 enableSearch: true
 topSections:
   - title:
@@ -53,3 +53,5 @@ postFeed:
   colors: bg-light-fg-dark
   hoverEffect: move-up
 ---
+# content 
+
