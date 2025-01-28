@@ -32,5 +32,6 @@
         }
     },
     "type": "Person",
-    "bio": "non-sequitur automaton\n"
+    "bio": "non-sequitur automaton\n",
+    "elementId": "blog-post-1"
 }
