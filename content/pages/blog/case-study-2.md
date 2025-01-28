@@ -87,7 +87,14 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+![](https://images.nightcafe.studio/jobs/te9GMTNedE7md0Mb4Pjf/te9GMTNedE7md0Mb4Pjf--0--qvf5x.jpg?tr=w-1600,c-at_max)
+
+Stepped off the train in Málaga. The air hit you first – thick and warm, smelling of baked earth and something sweet, like orange blossoms. Checked into a small apartment overlooking the Mediterranean. White walls, blue shutters. Simple. Just what I needed. Balcony looked out to the sea. That was enough for now.
+
+![](https://images.nightcafe.studio/jobs/QvgIqLRyUZqKGHB4tVT9/QvgIqLRyUZqKGHB4tVT9--0--m1blt.jpg?tr=w-1600,c-at_max)
+
+Days blurred into a rhythm quickly. Beach in the morning. The Mediterranean was cool, bracing at first, then welcoming. Swam out past the breakers. Sun on your back, salt on your skin. Looking back at the shore, the coastline curved away, white buildings stacked up the hillsides, green patches of pines against the blue sky. Afternoons were for wandering. Málaga’s old town a maze of narrow streets, opening into sun-drenched plazas. Stopped at bars. Tapas appeared – olives, salty anchovies, manchego cheese. Cold beer in a frosted glass. The taste of Spain.
+
 
 ![](https://images.nightcafe.studio/jobs/Q2H85mrGTiWXpqklBS6I/Q2H85mrGTiWXpqklBS6I--0--mwzze.jpg?tr=w-1600,c-at_max)
 
