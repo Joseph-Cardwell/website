@@ -98,7 +98,7 @@ styles:
   self:
     flexDirection: row
 ---
-## Andalusia: Six Months Under the Spanish Sun - A Traveler's Journal
+###### ![](https://images.nightcafe.studio/jobs/LFVn2CU9FOkAxszvghVE/LFVn2CU9FOkAxszvghVE--0--pbw90.jpg?tr=w-1600,c-at_max)Andalusia: Six Months Under the Spanish Sun - A Traveler's Journal
 
 **Sun and Salt: Settling into the Costa del Sol**
 
@@ -158,6 +158,8 @@ Drove up into the Sierra Nevada.  Mountains high and stark.  Thin air, views str
 
 Last stop.  The coast again.  But the Atlantic coast this time.  Cádiz.
 
+![](https://images.nightcafe.studio/jobs/MCZpsU7eLZ8EGooG79W7/MCZpsU7eLZ8EGooG79W7--0--ysuie.jpg?tr=w-1600,c-at_max)
+
 **Cádiz and Jerez: Ocean Wind, Sherry's Warmth, Farewell to Andalusia**
 
 Cádiz, on a peninsula jutting into the Atlantic.  Sea on three sides.  Old city walls, weathered by wind and salt.  Walked the walls, the ocean wind whipping at your face.  Cádiz felt different from the Mediterranean coast.  More exposed, more rugged, more steeped in seafaring history.  Beaches long and sandy, facing the vast Atlantic.  La Caleta beach, small and sheltered, nestled between old fortresses.  Cádiz Cathedral, golden dome gleaming in the sun, a landmark visible from the sea.  Mercado Central, vibrant and bustling, overflowing with seafood fresh from the Atlantic – oysters, prawns, fish of every kind.
@@ -167,4 +169,3 @@ Jerez de la Frontera, sherry country.  Bodegas lined the streets.  Toured a bode
 Horses in Jerez too.  Royal Andalusian School of Equestrian Art.  Watched the Andalusian horses dance.  Proud, powerful animals, moving with grace and precision to the music.  A display of skill, tradition, and beauty.
 
 Back to Málaga.  Full circle.  The same apartment, the same sea view.  The sun still hot, the sea still blue.  Walked the beach one last time.  Swam in the Mediterranean, feeling the salt, the sun.  Ate tapas, drank cold beer, watching the waves.  Six months.  It had gone quickly, and slowly, all at once.  Enough time to feel the rhythm of Andalusia, the heat, the history, the passion, the beauty.  Packed bags, went to the train station.  The sun still beat down on the platform.  Train pulled away, leaving Andalusia behind.  But not really.  It stayed with you, a warmth in the heart, a memory of sun-drenched streets, the sound of flamenco, the taste of sherry, the scent of orange blossoms.  And the promise of return.  Someday.
-
