@@ -10,7 +10,8 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/a-trip-to-andalusia-spain.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
