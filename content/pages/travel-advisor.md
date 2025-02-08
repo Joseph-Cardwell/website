@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Chat Advisor
+      text: Digital Nomad Assistant
       color: text-dark
     subtitle: Your Digital Nomad Assistant
     text: >
