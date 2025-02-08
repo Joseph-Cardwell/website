@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Chat Advisor
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Your Digital Nomad Assistant
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
