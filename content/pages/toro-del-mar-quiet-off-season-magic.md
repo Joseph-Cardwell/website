@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Digital Nomad Assistant
+title: Travel Assistant
 sections:
   - type: GenericSection
     title:
