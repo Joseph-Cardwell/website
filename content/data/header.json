@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Chat",
-            "url": "/pricing",
+            "url": "/chat",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
