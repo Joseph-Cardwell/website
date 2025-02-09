@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Magic in Espana's 'Off-Season'
+title: Magic in the España 'Off-Season'
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: ' Find yourself falling in love with the quiet side of the Spanish coast.'
