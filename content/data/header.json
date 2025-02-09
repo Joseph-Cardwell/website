@@ -13,12 +13,14 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Chat",
+            "url": "/toro-del-mar-quiet-off-season-magic",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true,
+            "elementId": "nav-toro-del-mar-quiet-off-season-magic"
         },
         {
             "label": "Blog",
