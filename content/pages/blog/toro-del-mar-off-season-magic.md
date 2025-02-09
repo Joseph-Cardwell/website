@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Toro Del Mar Night: Off-Season Magic'
+title: 'Toro Del Mar: Off-Season Magic'
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: >-
