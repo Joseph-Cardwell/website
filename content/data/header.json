@@ -14,10 +14,10 @@
     "primaryLinks": [
         {
             "label": "Chat",
-            "url": "/toro-del-mar-quiet-off-season-magic",
+            "url": "blog/toro-del-mar-quiet-off-season-magic",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Link",
             "showIcon": false,
             "elementId": "nav-toro-del-mar-quiet-off-season-magic"
