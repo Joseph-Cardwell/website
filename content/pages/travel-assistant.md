@@ -69,7 +69,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-slug: toro-del-mar-quiet-off-season-magic
+slug: travel-assistant
 isDraft: false
 seo:
   type: Seo
