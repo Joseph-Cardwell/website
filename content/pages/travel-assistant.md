@@ -4,7 +4,7 @@ title: Travel Assistant
 sections:
   - type: GenericSection
     subtitle: ''
-    text: >+
+    text: >
       ## Living the Location-Independent Life? We Get It. Get Support.
 
 
@@ -35,9 +35,7 @@ sections:
       of location-independent professionals.
 
 
-      **\[Book a Free Consultation & Discover How We Can Help.]\(Link to your
-      consultation booking page here)**
-
+      **Book a Free Consultation & Discover How We Can Help.**
     actions:
       - type: Button
         label: Get started
