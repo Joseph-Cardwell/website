@@ -96,7 +96,9 @@ styles:
   self:
     flexDirection: row
 ---
-## ![](/images/toro_del_mar_1.jpg)The Quiet Charm of a Toro del Mar Night: Off-Season Magic
+![](/images/toro_del_mar_1.jpg)
+The Quiet Charm of a Toro Del Mar
+---------------------------------
 
 The postcards of Toro del Mar usually explode with sun-drenched beaches packed with colourful umbrellas, the air buzzing with laughter and the clinking of glasses from overflowing chiringuitos. But let me tell you a secret: Toro del Mar in the off-season? It’s a different kind of magic altogether.  And last night, I got to experience it in all its tranquil glory.
 
