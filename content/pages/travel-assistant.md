@@ -39,7 +39,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: /signup
         icon: arrowRight
         iconPosition: right
         style: secondary
