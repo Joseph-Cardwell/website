@@ -97,6 +97,7 @@ styles:
     flexDirection: row
 ---
 ![](/images/toro_del_mar_1.jpg)
+
 The Quiet Charm of a Toro Del Mar
 ---------------------------------
 
