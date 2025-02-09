@@ -19,7 +19,8 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "showIcon": true
+            "showIcon": true,
+            "elementId": "nav-toro-del-mar-quiet-off-season-magic"
         },
         {
             "label": "Blog",
