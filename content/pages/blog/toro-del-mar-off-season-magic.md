@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: ' Find yourself falling in love with the quiet side of the Spanish coast.'
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/toro_del_mar_1.jpg
   altText: Thumbnail
   elementId: ''
   styles:
