@@ -33,17 +33,6 @@
     ],
     "secondaryLinks": [
         {
-            "type": "Link",
-            "label": "Instagram",
-            "altText": "Instagram",
-            "url": "https://www.instagram.com/constant.sojourner/",
-            "showIcon": true,
-            "icon": "instagram",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Log in",
             "url": "/",
             "icon": "arrowRight",
