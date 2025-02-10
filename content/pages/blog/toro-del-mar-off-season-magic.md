@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Magic in España 'Off-Season'
+title: 'España: Off-Season Magic'
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: ' Find yourself falling in love with the quiet side of the Spanish coast.'
@@ -42,7 +42,7 @@ styles:
   self:
     flexDirection: row
 ---
-![](/images/toro_del_mar_1.jpg)
+![](/images/torre_del_mar.jpg)
 
 ## The Quiet Charm of a Torre del Mar
 
