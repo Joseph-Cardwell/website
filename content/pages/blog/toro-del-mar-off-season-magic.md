@@ -7,7 +7,7 @@ excerpt: ' Find yourself falling in love with the quiet side of the Spanish coas
 featuredImage:
   type: ImageBlock
   url: /images/torre_del_mar.jpg
-  altText: Thumbnail
+  altText: torre-del-mar-spain
   elementId: ''
   styles:
     self:
