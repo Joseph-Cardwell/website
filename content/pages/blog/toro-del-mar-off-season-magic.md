@@ -42,7 +42,7 @@ styles:
   self:
     flexDirection: row
 ---
-![](/images/toro_del_mar_1.jpg)
+![](/images/torre_del_mar.jpg)
 
 ## The Quiet Charm of a Torre del Mar
 
