@@ -12,6 +12,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/a-trip-to-andalusia-spain.md
+      - content/pages/blog/toro-del-mar-off-season-magic.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
